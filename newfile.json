@@ -8,4 +8,8 @@ fourth line from newbranch_testreversecommit //// Commit reverted changes
 
 New line - file2 / test2_newbranch
 
+<<<<<<< HEAD
 New line 2 - file2 / test2_newbranch
+=======
+newbranch_testreversecommit / Third Line
+>>>>>>> ca17b0a8a828a4b3a8fe1ca8362658747c9aca62
