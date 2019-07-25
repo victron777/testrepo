@@ -1,5 +1,3 @@
 First line - file4 / From newbranch_testreversecommit
 
-Second line - file4 After pulling from master, revertig commit in file3 and commiting changes in file 4 / from test2_newbranch
-
-New Line 1 file4 / test2_newbranch
+New attempt to solve merge conflicts - Second change (Target)
